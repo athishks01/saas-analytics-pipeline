@@ -13,10 +13,6 @@
 
 ---
 
-## Live Dashboard
-
- **https://app.powerbi.com/view?r=eyJrIjoiMzk4NDJjZmEtNTk0Mi00Yzk0LTk2ZmItOTQ3NDU1YmY0ODU0IiwidCI6IjUwZTFjNGMzLTE2ZmQtNGRkZS04ODAxLWIyZDQ5NGZkN2E5ZiJ9**
-
 
 This project builds an end-to-end analytics pipeline that simulates a SaaS business lifecycle and delivers key product and revenue metrics through an automated workflow.
 
